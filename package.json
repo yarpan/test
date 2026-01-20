@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+
+    "testomat": "set TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 & set TESTOMATIO_RUN=21582be4 & npx playwright test",
+
+    "testomatio-import": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --no-empty",
+    "testomatio-update-ids": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --update-ids",
+    "testomatio-merge": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --update-ids --add-missing",
+
+    "testomat-export": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest pull",
+
+    "report": "npx playwright show-report --port=9325"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@testomatio/reporter": "^2.3.6",
+    "@types/node": "^22.10.1"
+  }
+}
