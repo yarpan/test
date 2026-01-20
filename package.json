@@ -7,9 +7,11 @@
     
     "testomat": "set TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 & set TESTOMATIO_RUN=21582be4 & npx playwright test",
     
-    "testomatio-import": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --no-empty",
-    "testomatio-update-ids": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --update-ids",
-    "testomatio-merge": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --update-ids --add-missing",
+    "testomat-import-md": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest push ",
+
+    "testomat-import": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --no-empty",
+    "testomat-update-ids": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --update-ids",
+    "testomat-merge": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --update-ids --add-missing",
     "testomat-export": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest pull",
     
     "report": "npx playwright show-report --port=9325"
