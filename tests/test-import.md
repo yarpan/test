@@ -1,8 +1,6 @@
-# Open Inquiries – Edge
+# Open Inquiries – Edge / REGRESSION / Open Inquiries / Creation
 
-## /REGRESSION/Open Inquiries/Creation
-
-### Inquiry Type Selection (First Modal)
+# Inquiry Type Selection (First Modal)
 
 ## Buyer can see "New Inquiry" button on Offers list view @edge
 ## Buyer can click "New Inquiry" button and see type selection modal @edge
@@ -14,7 +12,7 @@
 ## Buyer can click Back from "Listing" inquiry type and return to type selection modal @edge
 ## "New Inquiry" button is NOT visible on Ensilio instance @ensilio @negative
 
-### Open Inquiry Type Selection (Second Modal – Spot/Contract)
+# Open Inquiry Type Selection (Second Modal – Spot/Contract)
 
 ## Buyer can see Spot/Contract selection modal after selecting "Open" type @edge
 ## Buyer can see "Spot" option in Spot/Contract modal @edge
@@ -24,7 +22,7 @@
 ## Buyer can click Continue to proceed to creation flow @edge
 ## Buyer can click Back and return to Open/Listing type selection @edge
 
-### Open Inquiry Creation – General
+# Open Inquiry Creation – General
 
 ## Buyer can see "New Inquiry" as page title on inquiry creation page @edge
 ## Buyer can see wizard stepper with steps: Type, Terms, Products, Review @edge
@@ -35,7 +33,7 @@
 ## Buyer is redirected to Open Inquiry detail page after submission @edge
 ## Open Inquiry is automatically routed to supplier based on routing rules after submission @edge
 
-### Open Inquiry Creation – Terms Step (Required Fields)
+# Open Inquiry Creation – Terms Step (Required Fields)
 
 ## Buyer can see "Select Terms" title on Terms step @edge
 ## Buyer can see Delivery Terms dropdown on Terms step (required) @edge
@@ -47,7 +45,7 @@
 ## Continue button is disabled on Terms step until all required fields are filled @edge
 ## Continue button is enabled on Terms step when all required fields are filled @edge
 
-### Open Inquiry Creation – Terms Step (Delivery Terms & Shipping Destination)
+# Open Inquiry Creation – Terms Step (Delivery Terms & Shipping Destination)
 
 ## Buyer can see Port field when selecting FOB delivery term @edge
 ## Buyer can see Port field when selecting CIF delivery term @edge
@@ -60,7 +58,7 @@
 ## Buyer can create new shipping address on Terms step @edge
 ## No shipping destination field appears when selecting EXW delivery term @edge
 
-### Open Inquiry Creation – Terms Step (Optional Fields)
+# Open Inquiry Creation – Terms Step (Optional Fields)
 
 ## Buyer can see Currency Preference dropdown on Terms step (optional) @edge
 ## Buyer can see Currency Preference defaults to USD @edge
@@ -71,7 +69,7 @@
 ## Buyer can set Inquiry Expiration Date using date picker @edge
 ## Buyer can see expiration date banner on Review step when expiration is set @edge
 
-### Open Inquiry Creation – Products Step (Input Method Selection)
+# Open Inquiry Creation – Products Step (Input Method Selection)
 
 ## Buyer can see "Enter Product Details" title on Products step @edge
 ## Buyer can see "Auto Import" option card on Products step @edge
@@ -79,7 +77,7 @@
 ## Buyer can click "Auto Import" to upload products from spreadsheet @edge
 ## Buyer can click "Add Manually" to add products one by one @edge
 
-### Open Inquiry Creation – Products Step (Add Manually Flow)
+# Open Inquiry Creation – Products Step (Add Manually Flow)
 
 ## Buyer can see "New Product" button after clicking "Add Manually" @edge
 ## Buyer can click "New Product" to open product selection modal @edge
@@ -96,7 +94,7 @@
 ## Buyer can delete added product on Products step @edge
 ## Continue button is disabled on Products step until at least one product is added @edge
 
-### Open Inquiry Creation – Review Step
+# Open Inquiry Creation – Review Step
 
 ## Buyer can see all Terms details on Review step @edge
 ## Buyer can see all Products details on Review step @edge
@@ -106,9 +104,7 @@
 ## Buyer can go back to edit Terms from Review step @edge
 ## Buyer can go back to edit Products from Review step @edge
 
----
-
-## /REGRESSION/Open Inquiries/Routing
+# Open Inquiries – Edge / REGRESSION / Open Inquiries / Routing
 
 ## Open Inquiry is assigned to fallback supplier when no routing rules match @edge
 ## Open Inquiry is assigned to supplier based on product routing condition @edge
@@ -118,9 +114,7 @@
 ## Open Inquiry routing follows priority order when multiple rules match @edge
 ## Listing Inquiry is assigned to listing creator (not routing rules) @edge
 
----
-
-## /REGRESSION/Open Inquiries/View/Buyer
+# Open Inquiries – Edge / REGRESSION / Open Inquiries / View / Buyer
 
 ## Buyer can view Open Inquiry detail page @edge
 ## Buyer can see "Submitted" status on Open Inquiry detail page @edge
@@ -131,9 +125,7 @@
 ## Buyer cannot see "View Listing" button on Open Inquiry detail page @edge
 ## Buyer can see "View Offer" button on Open Inquiry detail page when offer exists @edge
 
----
-
-## /REGRESSION/Open Inquiries/View/Supplier
+# Open Inquiries – Edge / REGRESSION / Open Inquiries / View / Supplier
 
 ## Supplier can view Open Inquiry detail page @edge
 ## Supplier can see "Needs Response" status on Open Inquiry detail page @edge
@@ -143,9 +135,7 @@
 ## Supplier can see "Make Offer" button on Open Inquiry detail page @edge
 ## Supplier can see "Decline Inquiry" button on Open Inquiry detail page @edge
 
----
-
-## /REGRESSION/Open Inquiries/Transition
+# Open Inquiries – Edge / REGRESSION / Open Inquiries / Transition
 
 ## "New Request" button is NOT visible on Requests list page on Edge instance @edge
 ## Side navigation does NOT show "Requests" menu item on Edge instance @edge

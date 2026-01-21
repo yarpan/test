@@ -7,7 +7,9 @@
     
     "testomat": "set TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 & set TESTOMATIO_RUN=21582be4 & npx playwright test",
     
-    "testomat-import-md": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest \"cases/**/*.md\" -d cases push",
+    "testomat-import-md": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest push ",
+    "testomat-import-md2": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Markdown \"cases/test-import.md\"",
+    "testomat-import-md3": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Markdown \"testomat/**/*.md\"",
 
     "testomat-import": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --no-empty",
     "testomat-update-ids": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --update-ids",
