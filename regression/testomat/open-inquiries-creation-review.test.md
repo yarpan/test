@@ -1,5 +1,5 @@
 <!-- suite
-id: @S79cc6998
+id: @Sf7319b5d
 emoji: 
 -->
 # Open Inquiries - Creation Review Step
@@ -70,7 +70,7 @@ creator: robot@testomat.io
 
 
 <!-- test
-id: @T27744959
+id: @T90e3c611
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -79,7 +79,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T574f0169
+id: @Ta9031de6
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -88,7 +88,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T00de0dbf
+id: @T63e85342
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -97,7 +97,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T846a68ae
+id: @T7b99ef2e
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -106,7 +106,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T1be7b70e
+id: @T8016d8f8
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -115,7 +115,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T03cfb92b
+id: @Tc90a5038
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -124,7 +124,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tc68a1401
+id: @Tdfc2151e
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->

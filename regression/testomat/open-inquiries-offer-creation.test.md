@@ -1,5 +1,5 @@
 <!-- suite
-id: @Sa63b88ee
+id: @S54e9ced7
 emoji: 
 -->
 # Open Inquiries - Offer Creation
@@ -61,7 +61,7 @@ creator: robot@testomat.io
 
 
 <!-- test
-id: @T0aaf2327
+id: @T72a28db1
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -70,7 +70,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Taecbc469
+id: @Tab656538
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -79,7 +79,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tba97d4f6
+id: @Te767d3ac
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -88,7 +88,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T318dacbc
+id: @T1a9cbfcd
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -97,7 +97,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tf1f1f2de
+id: @T51339f11
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -106,7 +106,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T1599ee7e
+id: @Tce784b4a
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->

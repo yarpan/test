@@ -1,5 +1,5 @@
 <!-- suite
-id: @S55466a56
+id: @S181d26f9
 emoji: 
 -->
 # Open Inquiries - Transition (RFQ Deprecation)
@@ -52,7 +52,7 @@ creator: robot@testomat.io
 
 
 <!-- test
-id: @T81c2aace
+id: @T7edd3c1d
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -61,7 +61,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tab5bf655
+id: @T498cc1f3
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -70,7 +70,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T49bf9e83
+id: @T82502f4a
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -79,7 +79,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T654d7a98
+id: @T9fd48aa6
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -88,7 +88,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T6ec8445a
+id: @T28b8c5c5
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->

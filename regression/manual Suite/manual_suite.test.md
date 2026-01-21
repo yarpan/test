@@ -1,5 +1,5 @@
 <!-- suite
-id: @Se1c6d7b8
+id: @Sc04aa758
 emoji: 
 -->
 # Manual Suite
@@ -7,7 +7,7 @@ emoji:
 
 
 <!-- test
-id: @T911c3a57
+id: @T5ff23487
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -16,7 +16,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Ta6ea03b5
+id: @T1951b5e5
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->

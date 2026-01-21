@@ -1,5 +1,5 @@
 <!-- suite
-id: @S69a43d95
+id: @S3c08e707
 emoji: 
 -->
 # Open Inquiries - View Staff
@@ -43,7 +43,7 @@ creator: robot@testomat.io
 
 
 <!-- test
-id: @T963a7cd4
+id: @T92f60e71
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -52,7 +52,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tbe18b19b
+id: @Tc6dec4c4
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -61,7 +61,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tda8ef7ea
+id: @T4dc34c0c
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -70,7 +70,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T181478da
+id: @T9c5ccfa3
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->

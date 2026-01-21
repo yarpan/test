@@ -1,5 +1,5 @@
 <!-- suite
-id: @Sef908df4
+id: @Sd05addf4
 emoji: 
 -->
 # Open Inquiries - In-App Notifications
@@ -214,7 +214,7 @@ creator: robot@testomat.io
 
 
 <!-- test
-id: @Teba79093
+id: @T9332f0da
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -223,7 +223,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Td0e30772
+id: @Tf261072d
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -232,7 +232,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T7f374173
+id: @Tf951c072
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -241,7 +241,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T3e3054bd
+id: @Tb3c9480a
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -250,7 +250,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Teefcd487
+id: @Tfc3111a8
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -259,7 +259,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tda490559
+id: @T04300483
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -268,7 +268,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T89769dca
+id: @Ta4d747c2
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -277,7 +277,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tcea4b8c7
+id: @Tacdfa9b1
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -286,7 +286,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Te4f01b91
+id: @T55df76e4
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -295,7 +295,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T0ba3b6e1
+id: @Tab0ae4b1
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -304,7 +304,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Te69901a9
+id: @T8cfd5e96
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -313,7 +313,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T5d191c9f
+id: @T2b31862e
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -322,7 +322,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T15ba6699
+id: @T67a4fa31
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -331,7 +331,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T55f202e2
+id: @T7e561b96
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -340,7 +340,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T39d47dc2
+id: @T4785b483
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -349,7 +349,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tc40f2f7c
+id: @Td0ae5e01
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -358,7 +358,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tfd51c72c
+id: @T5d3af2be
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -367,7 +367,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Ta35ac0b8
+id: @Tbde74d97
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -376,7 +376,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T9a88d905
+id: @Ta54ba1c6
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -385,7 +385,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tc3c11ec0
+id: @T148afb40
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -394,7 +394,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T8ee256c4
+id: @T2f9329f8
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -403,7 +403,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T7aab1cef
+id: @T1c3fe0cc
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -412,7 +412,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tf71390b5
+id: @T031f1625
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->

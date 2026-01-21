@@ -1,5 +1,5 @@
 <!-- suite
-id: @S92fef3bb
+id: @S50f7508c
 emoji: 
 -->
 # Open Inquiries - Email Notifications
@@ -277,7 +277,7 @@ creator: robot@testomat.io
 
 
 <!-- test
-id: @Tc852eac0
+id: @T8e5e5c98
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -286,7 +286,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tbc2874d3
+id: @T6e7a3413
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -295,7 +295,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T3a4a49ef
+id: @T0367732b
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -304,7 +304,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T372fb23f
+id: @T58f9d6dc
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -313,7 +313,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T04f5ab91
+id: @Tec5b43c0
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -322,7 +322,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T5dca62b8
+id: @T4b4e3896
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -331,7 +331,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tcbaa8e25
+id: @T92232296
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -340,7 +340,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tbe5a769b
+id: @T5896b089
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -349,7 +349,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T757940dd
+id: @T90045583
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -358,7 +358,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T9b734ae2
+id: @Taae98cdc
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -367,7 +367,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T6ed06286
+id: @Tde60fca7
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -376,7 +376,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T9900bf46
+id: @T55ad8af4
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -385,7 +385,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Te3b0837f
+id: @Ta04ee542
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -394,7 +394,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T7ec5be32
+id: @T4be066e8
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -403,7 +403,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T61ec5034
+id: @T8fba00af
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -412,7 +412,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T81777938
+id: @T2e11a870
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -421,7 +421,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T5abd6a46
+id: @Tdbac4102
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -430,7 +430,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tecccebd1
+id: @Tc35cf682
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -439,7 +439,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tfc6a9958
+id: @Teafbd89c
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -448,7 +448,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tcd103e27
+id: @T4e83cd76
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -457,7 +457,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tb63e3461
+id: @Td6ade275
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -466,7 +466,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tdbae7cc7
+id: @T3b42cb70
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -475,7 +475,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Ta067bf9d
+id: @T28c8daf5
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -484,7 +484,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tba2dfe2c
+id: @T4bdca543
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -493,7 +493,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tb743e098
+id: @T2dc30007
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -502,7 +502,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Ta6d71f13
+id: @Tcc1fbbb1
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -511,7 +511,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T7a77aa16
+id: @T088a65a6
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -520,7 +520,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T9e39a257
+id: @Tf3b2dc94
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -529,7 +529,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tbab1e28b
+id: @Taa1ae7be
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -538,7 +538,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T8c663088
+id: @Tc209e3a5
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -547,7 +547,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Ta948cbb5
+id: @Tf5c0af74
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -556,7 +556,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Te85cebc9
+id: @T4d9b04db
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -565,7 +565,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T71b3fd1f
+id: @T7f502544
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -574,7 +574,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Ta525f97a
+id: @T3da759d6
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->

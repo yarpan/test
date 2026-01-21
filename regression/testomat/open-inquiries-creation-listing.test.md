@@ -1,5 +1,5 @@
 <!-- suite
-id: @S31bd26aa
+id: @Sfeaed37b
 emoji: 
 -->
 # Open Inquiries - Listing Inquiry Creation
@@ -79,7 +79,7 @@ creator: robot@testomat.io
 
 
 <!-- test
-id: @Te08d1892
+id: @Td1557bf9
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -88,7 +88,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T17455c94
+id: @T488f4bab
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -97,7 +97,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Td723c476
+id: @T82cc2fe3
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -106,7 +106,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T91a8c8dd
+id: @T971d9d0e
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -115,7 +115,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T7ab7f732
+id: @Tbde81d96
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -124,7 +124,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T99483f82
+id: @Ta153c548
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -133,7 +133,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T87f8e2a8
+id: @Te12abf1d
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -142,7 +142,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T22a34839
+id: @T8020f3ec
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->

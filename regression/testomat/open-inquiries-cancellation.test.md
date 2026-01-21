@@ -1,5 +1,5 @@
 <!-- suite
-id: @S0b17441d
+id: @S33402b7e
 emoji: 
 -->
 # Open Inquiries - Cancellation
@@ -52,7 +52,7 @@ creator: robot@testomat.io
 
 
 <!-- test
-id: @T7660fa95
+id: @Tc6f7f278
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -61,7 +61,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T129a302e
+id: @T2106f595
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -70,7 +70,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T023d4a88
+id: @T1be38368
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -79,7 +79,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T5a4a43d6
+id: @Ted0033b4
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -88,7 +88,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @T39bff424
+id: @T20868b18
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->

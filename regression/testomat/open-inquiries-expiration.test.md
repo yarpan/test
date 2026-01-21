@@ -1,5 +1,5 @@
 <!-- suite
-id: @S05081e35
+id: @Sf7d144f0
 emoji: 
 -->
 # Open Inquiries - Expiration
@@ -52,7 +52,7 @@ creator: robot@testomat.io
 
 
 <!-- test
-id: @Tc807f47c
+id: @T45c3ec93
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -61,7 +61,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tab8156cb
+id: @Tf4018615
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -70,7 +70,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tf04937de
+id: @Te34e89fa
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -79,7 +79,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tec420832
+id: @Tcc9761ea
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -88,7 +88,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Tbf7c629d
+id: @Tcd486de6
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
