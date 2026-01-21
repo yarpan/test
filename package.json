@@ -7,14 +7,14 @@
     
     "testomat": "set TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 & set TESTOMATIO_RUN=21582be4 & npx playwright test",
     
-    "testomat-import-md": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest -d /testomat/ push ",
-    "testomat-import-md2": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Markdown \"cases/test-import.md\"",
-    "testomat-import-md3": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Markdown \"testomat/**/*.md\"",
+    "testomat-import-md": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest -d testomat push",
+    "testomat-import-md2": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Markdown \"testomat/*.md\" push",
+    "testomat-import-md3": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest \"*.*\" -d testomat push",
 
     "testomat-import": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --no-empty",
     "testomat-update-ids": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --update-ids",
     "testomat-merge": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --update-ids --add-missing",
-    "testomat-export": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest -d /testomat/  pull",
+    "testomat-export": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest -d testomat pull",
     
     "report": "npx playwright show-report --port=9325"
   },
