@@ -1,13 +1,13 @@
 <!-- suite
-id: @Se1c6d7b8
+id: @Se1c6d7f4
 emoji: 
 -->
-# Manual Suite
+# Manual Suite 2
 
 
 
 <!-- test
-id: @T911c3a57
+id: @T911c3af4
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
@@ -16,7 +16,7 @@ creator: yaroslav.panchishyn@teaminua.com
 
 
 <!-- test
-id: @Ta6ea03b5
+id: @Ta6ea03f4
 priority: normal
 creator: yaroslav.panchishyn@teaminua.com
 -->
