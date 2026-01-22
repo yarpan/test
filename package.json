@@ -14,8 +14,13 @@
     "testomat-import": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --no-empty",
     "testomat-update-ids": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --update-ids",
     "testomat-merge": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest Playwright \"tests/**/*.{test,spec}.ts\" --typescript --update-ids --add-missing",
-    "testomat-export": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest -d testomat pull",
-    
+    "testomat-framework": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest pull --force",
+    "framework-testomat": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest push --force",
+
+    "testomat-pull": "cross-env TESTOMATIO=tstmt_HqydG7mNCuR9dI3HCQGP7xlM8fCVtP69Kw1769084598 npx check-tests@latest pull --force",
+    "testomat-push": "cross-env TESTOMATIO=tstmt_HqydG7mNCuR9dI3HCQGP7xlM8fCVtP69Kw1769084598 npx check-tests@latest push --force",
+
+
     "report": "npx playwright show-report --port=9325"
   },
   "keywords": [],
@@ -26,6 +31,7 @@
     "@playwright/test": "^1.49.0",
     "@testomatio/reporter": "^0.7.6",
     "@types/node": "^22.10.1",
+    "check-tests": "^0.15.1",
     "cross-env": "^10.0.0"
   }
 }
