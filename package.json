@@ -17,10 +17,11 @@
     "testomat-framework": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest pull --force",
     "framework-testomat": "cross-env TESTOMATIO=tstmt_WYPyUHW5hDTxpTcVMGMFMsXRuZ_lIJeuug1760733243 npx check-tests@latest push --force",
 
-    "testomat-pull-yarpansoft": "cross-env TESTOMATIO=tstmt_HqydG7mNCuR9dI3HCQGP7xlM8fCVtP69Kw1769084598 npx check-tests@latest pull",
-    "testomat-push-yarpansoft": "cross-env TESTOMATIO=tstmt_HqydG7mNCuR9dI3HCQGP7xlM8fCVtP69Kw1769084598 npx check-tests@latest push --update-ids",
-    "testomat-push-md-yarpansoft": "cross-env TESTOMATIO=tstmt_HqydG7mNCuR9dI3HCQGP7xlM8fCVtP69Kw1769084598 npx check-tests@latest push --type md --path \"testomat/**/*.md\" --sync",
-    "testomat-sync-yarpansoft": "cross-env TESTOMATIO=tstmt_HqydG7mNCuR9dI3HCQGP7xlM8fCVtP69Kw1769084598 npx check-tests pull manual \"testomat/**/*.md\"",
+    "testomat-pull-yarpansoft": "cross-env TESTOMATIO=tstmt_HqydG7mNCuR9dI3HCQGP7xlM8fCVtP69Kw1769084598 npx check-tests pull",
+    "testomat-push-yarpansoft": "cross-env TESTOMATIO=tstmt_HqydG7mNCuR9dI3HCQGP7xlM8fCVtP69Kw1769084598 npx check-tests push --update-ids",
+    "testomat-push-md-yarpansoft": "cross-env TESTOMATIO=tstmt_HqydG7mNCuR9dI3HCQGP7xlM8fCVtP69Kw1769084598 npx check-tests push --type md --path \"testomat/**/*.md\" --sync",
+       
+       "testomat-manual-yarpansoft": "cross-env TESTOMATIO=tstmt_HqydG7mNCuR9dI3HCQGP7xlM8fCVtP69Kw1769084598 npx check-tests manual \"testomat/**/*test.md\" --no-detached --no-empty",
 
     "testomat-pull-yarpansoft-force": "cross-env TESTOMATIO=tstmt_HqydG7mNCuR9dI3HCQGP7xlM8fCVtP69Kw1769084598 npx check-tests@latest pull --force",
     "testomat-push-yarpansoft-force": "cross-env TESTOMATIO=tstmt_HqydG7mNCuR9dI3HCQGP7xlM8fCVtP69Kw1769084598 npx check-tests@latest push --force",
